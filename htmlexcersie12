@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram Facts</title>
+    <style>
+        body {
+            background-color: lightgreen;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+        }
+
+        .container {
+            width: 80%;
+            border: 2px solid blue;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .header {
+            background-color: lightblue;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .description {
+            background-color: lightblue;
+            padding: 10px;
+            font-size: 16px;
+        }
+
+        .facts-section {
+            background-color: dodgerblue;
+            margin: 20px 0;
+            padding: 20px;
+            color: #010000;
+            text-align: left;
+            font-size: 18px;
+        }
+
+        .facts-section p {
+            margin: 10px 0;
+        }
+
+        .facts-section h2 {
+            text-align: center;
+            color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div <h1 style="text-align:center; color:yellow;">&llarr;Instagram&rrarr;</h1>
+        <div class="description">
+            Instagram is a photo and video-sharing social networking service owned by Facebook, Inc.
+        </div>
+       
+        <div class="facts-section">
+            <h2>≛Instagram Facts Part 1✆</h2>
+            <p>#1 Instagram was founded in October, 2010.</p>
+            <p>#2 More than 40 billion photos have been shared in the Instagram history.</p>
+            <p>#3 Instagram was sold for $1 billion in 2012.</p>
+            <p>#4 Currently, there is more than 4.2 billion number of Instagram likes per day.</p>
+            <p>#5 Most followed Instagram user is Selena Gomez, with more than 113 million followers.</p>
+        </div>
+       
+        <div class="facts-section">
+            <h2>✲Instagram Facts Part 2✲</h2>
+             <p>#6 Around 95 million photos uploaded per single day.
+            <p>#7 Instagram has been installed 1 billion times on the Google Play Store alone.
+            <p>#8 32% of all internet users are on Instagram
+            <p>#9 59% of internet user between ages 28 and 29 use Instagram
+            <p>#10 When Instagram introduced videos, 5 million videos were uploaded in the first 24 hours</p>
